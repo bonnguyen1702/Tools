@@ -1,0 +1,9 @@
+# Installation
+
+1. Install [TamperMonkey](https://www.notion.so/1377f609618641b9af50a77f7a3e2daa)
+2. Click to open extension > Click Dashboard
+3. Open Utilities section
+    1. Copy text [https://raw.githubusercontent.com/nchicong/userscripts/master/gmail-web-shortcuts.js](https://raw.githubusercontent.com/nchicong/userscripts/master/gmail-web-shortcuts.js)
+    2. Scroll to the bottom of Utilities section, locate **Import from URL** field
+    3. Paste and click Install
+4. To check if the script is enabled and injected at the right site, open Gmail and see if the script is listed when clicking the extension button
