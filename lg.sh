@@ -1,10 +1,16 @@
 #!/bin/bash
+#Tool này hỗ trợ mở repo nhanh trong VS code
+#Instruction
+#B1: sửa đường dẫn trong code, thay path dẫn đến các repo, VD /home/anhnguyen80/Desktop/source/
+#B2: cài alias: thêm vào file ./bashrc đoạn sau: "alias lg="bash ~/Desktop/BashScriptTools/lg.sh" (đường dẫn đến nơi chứa code)
+#B3: mở terminal, gõ lg <tên-repo> để mở repo trong VS c
+
 #SUFFIX=`date +%Y-%m-%d`
 TMP_DIR="/home/anhnguyen80/Desktop/source/" #path chứa các repo
 #FILEN="$TMP_DIR""$SUFFIX"".txt"
 FILEN="$TMP_DIR""dirs"".txt"
 FIND_DIRS=$(cat <<-END
-		/home/anhnguyen80/Desktop/source/ 
+		/home/anhnguyen80/Desktop/source/  
 END
 )
 FIND_DIRS=`echo -e "$FIND_DIRS" | awk '{gsub(/^[[:space:]]+|[[:space:]]+$/,"",$0); print $0}'`
