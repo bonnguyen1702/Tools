@@ -1,0 +1,14 @@
+{
+  "key": "ctrl+q",
+  "command": "workbench.files.action.collapseExplorerFolders"
+}
+
+{
+  "key": "ctrl+t",
+  "command": "openInTerminal"
+}
+
+{
+  "key": "ctrl+shift+q",
+  "command": "workbench.action.quit"
+}
