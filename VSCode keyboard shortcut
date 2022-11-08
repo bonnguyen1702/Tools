@@ -12,3 +12,8 @@
   "key": "ctrl+shift+q",
   "command": "workbench.action.quit"
 }
+
+{
+  "key": "ctrl+w",
+  "command": "workbench.action.terminal.kill"
+}
