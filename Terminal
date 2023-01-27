@@ -1,0 +1,5 @@
+#Welcome message
+echo "You're looking great! Have a nice day Mr.Duc Anh!!!
+---------------------------------------------------"
+date
+bash ~/Desktop/BashScriptTools/auto-git-pull.sh
