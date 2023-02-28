@@ -25,3 +25,12 @@
         "command": "workbench.action.terminal.kill"
     }
 ]
+
+###
+Extensions:
+1. Gitlens
+2. Docker
+3. Hashicorp Terraform
+4. Git history
+5. Python
+6. Yaml
