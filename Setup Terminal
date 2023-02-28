@@ -3,3 +3,10 @@ echo "You're looking great! Have a nice day Mr.Duc Anh!!!
 ---------------------------------------------------"
 date
 bash ~/Desktop/BashScriptTools/auto-git-pull.sh
+
+Gnome terminal shortcut keys:
+Ctrl + q: previous tab
+Ctrl + shift + w: delete tab
+Ctrl + t: new tab
+Ctrl + shift + Q: close window
+Ctrl + N: new window
