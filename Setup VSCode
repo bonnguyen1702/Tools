@@ -34,3 +34,6 @@ Extensions:
 4. Git history
 5. Python
 6. Yaml
+
+#Auto copy on solection
+Vào preferences -> settings -> search terminal.integrated.copyOnSelection -> t
